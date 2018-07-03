@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ProductLinkedList
+comment1.params=
+comment1.target=int\ getSize()
+comment2.params=info
+comment2.target=void\ addBack(ProductInfo)
+comment3.params=input
+comment3.target=void\ deleteSelectedNode(int)
+comment4.params=
+comment4.target=void\ totalSummary()
+comment5.params=input
+comment5.target=void\ printSpecificNode(int)
+comment6.params=id
+comment6.target=void\ editAnItem(int)
+comment7.params=
+comment7.target=void\ printAllNodes()
+numComments=8
