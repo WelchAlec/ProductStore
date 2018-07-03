@@ -1,3 +1,4 @@
+//This class is used for ordering nodes
 public class ProductNode{
     private ProductNode next;
     private ProductNode prev;

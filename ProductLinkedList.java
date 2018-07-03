@@ -1,5 +1,8 @@
 /*Product Linked List class -- allows nodes to be put in order
-   The size variable assigns new products an id number */
+   The size variable assigns new products an id number.
+   Has other methods that allow users to do multiple things such
+   as access data about a certain node, etc
+   */
 
 import java.util.*;
 public class ProductLinkedList{

@@ -1,5 +1,6 @@
 #BlueJ class context
 comment0.target=main
+comment0.text=\n\ \n\ This\ is\ the\ main\ program\ class\ that\ has\ a\ main\ menu\ loop\n\n
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 numComments=2

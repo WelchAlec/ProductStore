@@ -1,3 +1,4 @@
+//Class that prompts main menu to appear
 public class MainMenu{
     private int input;
     public void printMainMenu(){

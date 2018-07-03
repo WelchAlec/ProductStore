@@ -1,3 +1,4 @@
+//This class is used for assigning data to specfic nodes
 public class ProductInfo{
     private String name;
     private double price;
